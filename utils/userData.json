@@ -1,0 +1,38 @@
+[
+  {
+      "username": "dave",
+      "email": "dave@mail.com",
+      "thoughts": [],
+      "friends": [] 
+  },
+  {
+      "username": "joey",
+      "email": "joey@mail.com",
+      "thoughts": [],
+      "friends": []  
+  },
+  {
+      "username": "karnel",
+      "email": "karnel@mail.com",
+      "thoughts": [],
+      "friends": [] 
+  },
+  {
+      "username": "sarah",
+      "email": "sarah@mail.com",
+      "thoughts": [],
+      "friends": []  
+  },
+  {
+    "username": "anya",
+    "email": "anya@mail.com",
+    "thoughts": [],
+    "friends": []  
+},
+  {
+      "username": "kirk",
+      "email": "kirk@mail.com",
+      "thoughts": [],
+      "friends": []  
+  }
+]

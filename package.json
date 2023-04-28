@@ -1,0 +1,19 @@
+{
+    "name": "ch18-social-network-api",
+    "version": "1.0.0",
+    "description": "CH-18-NOSQL",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js",
+      "seed": "node utils/seed.js"
+    },
+
+    "keywords": [],
+    "author": "Tyler Wait",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.9.2"
+    }
+  }
